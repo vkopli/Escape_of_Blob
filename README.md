@@ -10,7 +10,7 @@ Blake the blob monster doesn't know where it is. All it knows is that it is in a
 
 ![example1](https://user-images.githubusercontent.com/26824976/78620519-38908900-784e-11ea-96c4-640bccc3c1de.png) \
 ![example3](https://user-images.githubusercontent.com/26824976/78620532-45ad7800-784e-11ea-88b0-82a14570e844.png) \
-![example2](https://user-images.githubusercontent.com/26824976/78620526-3d553d00-784e-11ea-9293-eb468c0adace.png) \
+![example2](https://user-images.githubusercontent.com/26824976/78620526-3d553d00-784e-11ea-9293-eb468c0adace.png)
 
 ## Download
 
